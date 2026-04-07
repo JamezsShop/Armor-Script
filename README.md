@@ -63,3 +63,8 @@ The script includes a **simple config file** where you can customize:
 * Gang Servers
 * Realistic RP Servers
 * Combat-focused servers
+
+
+
+HERE IS A VIDEO OF IT
+https://jumpshare.com/s/lixUVKcJvjlkVWlNw2Jk
